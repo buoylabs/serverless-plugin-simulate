@@ -9,6 +9,13 @@
 
 This is a proof of concept to see if we can replicate Amazon API Gateway using docker images to run lambda
 
+### About this fork:
+
+Applies fixes for:
+
+- [serverless-plugin-simulator issue 89](https://github.com/signalvine/serverless-plugin-simulate/tree/fix-89)
+- [serverless-plugin-simulator issue 104](https://github.com/serverless-community-labs/serverless-plugin-simulate/pull/105)
+
 ### Features:
 
 - λ runtimes **supported** _by docker-lambda._
